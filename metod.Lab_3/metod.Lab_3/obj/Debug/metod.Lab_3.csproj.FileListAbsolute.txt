@@ -1,0 +1,7 @@
+F:\Универ\Програмирование\4 семестр\Методы численного анализа\metod.Lab_3\metod.Lab_3\bin\Debug\metod.Lab_3.exe.config
+F:\Универ\Програмирование\4 семестр\Методы численного анализа\metod.Lab_3\metod.Lab_3\bin\Debug\metod.Lab_3.exe
+F:\Универ\Програмирование\4 семестр\Методы численного анализа\metod.Lab_3\metod.Lab_3\bin\Debug\metod.Lab_3.pdb
+F:\Универ\Програмирование\4 семестр\Методы численного анализа\metod.Lab_3\metod.Lab_3\obj\Debug\metod.Lab_3.csprojResolveAssemblyReference.cache
+F:\Универ\Програмирование\4 семестр\Методы численного анализа\metod.Lab_3\metod.Lab_3\obj\Debug\metod.Lab_3.csproj.CoreCompileInputs.cache
+F:\Универ\Програмирование\4 семестр\Методы численного анализа\metod.Lab_3\metod.Lab_3\obj\Debug\metod.Lab_3.exe
+F:\Универ\Програмирование\4 семестр\Методы численного анализа\metod.Lab_3\metod.Lab_3\obj\Debug\metod.Lab_3.pdb

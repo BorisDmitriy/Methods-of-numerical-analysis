@@ -1,0 +1,13 @@
+c:\users\boris_dj_16\documents\visual studio 2015\Projects\Lab. 1\Lab. 1\bin\Debug\Lab. 1.exe.config
+c:\users\boris_dj_16\documents\visual studio 2015\Projects\Lab. 1\Lab. 1\bin\Debug\Lab. 1.exe
+c:\users\boris_dj_16\documents\visual studio 2015\Projects\Lab. 1\Lab. 1\bin\Debug\Lab. 1.pdb
+c:\users\boris_dj_16\documents\visual studio 2015\Projects\Lab. 1\Lab. 1\obj\Debug\Lab. 1.csprojResolveAssemblyReference.cache
+c:\users\boris_dj_16\documents\visual studio 2015\Projects\Lab. 1\Lab. 1\obj\Debug\Lab. 1.exe
+c:\users\boris_dj_16\documents\visual studio 2015\Projects\Lab. 1\Lab. 1\obj\Debug\Lab. 1.pdb
+F:\Универ\Програмирование\4 семестр\Методы численного анализа\Lab. 1\Lab. 1\bin\Debug\Lab. 1.exe.config
+F:\Универ\Програмирование\4 семестр\Методы численного анализа\Lab. 1\Lab. 1\bin\Debug\Lab. 1.exe
+F:\Универ\Програмирование\4 семестр\Методы численного анализа\Lab. 1\Lab. 1\bin\Debug\Lab. 1.pdb
+F:\Универ\Програмирование\4 семестр\Методы численного анализа\Lab. 1\Lab. 1\obj\Debug\Lab. 1.csprojResolveAssemblyReference.cache
+F:\Универ\Програмирование\4 семестр\Методы численного анализа\Lab. 1\Lab. 1\obj\Debug\Lab. 1.csproj.CoreCompileInputs.cache
+F:\Универ\Програмирование\4 семестр\Методы численного анализа\Lab. 1\Lab. 1\obj\Debug\Lab. 1.exe
+F:\Универ\Програмирование\4 семестр\Методы численного анализа\Lab. 1\Lab. 1\obj\Debug\Lab. 1.pdb
