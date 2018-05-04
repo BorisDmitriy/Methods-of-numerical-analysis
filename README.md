@@ -1,1 +1,1 @@
-# Methods of numerical analysis
+Each lab contains a report
