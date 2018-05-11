@@ -10,3 +10,32 @@ F:\Универ\Програмирование\4 семестр\Methods of numer
 F:\Универ\Програмирование\4 семестр\Methods of numerical analysis\metod.Lab_8\metod.Lab_8\obj\Debug\metod.Lab_8.pdb
 F:\Универ\Програмирование\4 семестр\Methods of numerical analysis\metod.Lab_8\metod.Lab_8\bin\Debug\alglibnet2.dll
 F:\Универ\Програмирование\4 семестр\Methods of numerical analysis\metod.Lab_8\metod.Lab_8\obj\Debug\metod.Lab_8.csproj.CopyComplete
+C:\Users\boris_dj_16\Desktop\metod.Lab_8\metod.Lab_8\bin\Debug\metod.Lab_8.exe.config
+C:\Users\boris_dj_16\Desktop\metod.Lab_8\metod.Lab_8\obj\Debug\metod.Lab_8.exe
+C:\Users\boris_dj_16\Desktop\metod.Lab_8\metod.Lab_8\obj\Debug\metod.Lab_8.pdb
+C:\Users\boris_dj_16\Desktop\metod.Lab_8\metod.Lab_8\bin\Debug\metod.Lab_8.exe
+C:\Users\boris_dj_16\Desktop\metod.Lab_8\metod.Lab_8\bin\Debug\metod.Lab_8.pdb
+C:\Users\boris_dj_16\Desktop\metod.Lab_8\metod.Lab_8\obj\Debug\metod.Lab_8.csprojResolveAssemblyReference.cache
+C:\Users\boris_dj_16\Desktop\metod.Lab_8\metod.Lab_8\obj\Debug\metod.Lab_8.Form1.resources
+C:\Users\boris_dj_16\Desktop\metod.Lab_8\metod.Lab_8\obj\Debug\metod.Lab_8.Properties.Resources.resources
+C:\Users\boris_dj_16\Desktop\metod.Lab_8\metod.Lab_8\obj\Debug\metod.Lab_8.csproj.GenerateResource.Cache
+G:\Методы численного анализа\изменённая\metod.Lab_8\metod.Lab_8\obj\Debug\metod.Lab_8.csprojResolveAssemblyReference.cache
+G:\Методы численного анализа\изменённая\metod.Lab_8\metod.Lab_8\obj\Debug\metod.Lab_8.Form1.resources
+G:\Методы численного анализа\изменённая\metod.Lab_8\metod.Lab_8\obj\Debug\metod.Lab_8.Properties.Resources.resources
+G:\Методы численного анализа\изменённая\metod.Lab_8\metod.Lab_8\obj\Debug\metod.Lab_8.csproj.GenerateResource.cache
+G:\Методы численного анализа\изменённая\metod.Lab_8\metod.Lab_8\obj\Debug\metod.Lab_8.csproj.CoreCompileInputs.cache
+G:\Методы численного анализа\изменённая\metod.Lab_8\metod.Lab_8\obj\Debug\metod.Lab_8.exe
+G:\Методы численного анализа\изменённая\metod.Lab_8\metod.Lab_8\obj\Debug\metod.Lab_8.pdb
+G:\Методы численного анализа\изменённая\metod.Lab_8\metod.Lab_8\bin\Debug\metod.Lab_8.exe.config
+G:\Методы численного анализа\изменённая\metod.Lab_8\metod.Lab_8\bin\Debug\metod.Lab_8.exe
+G:\Методы численного анализа\изменённая\metod.Lab_8\metod.Lab_8\bin\Debug\metod.Lab_8.pdb
+C:\Users\admin\Desktop\metod.Lab_8\metod.Lab_8\bin\Debug\metod.Lab_8.exe.config
+C:\Users\admin\Desktop\metod.Lab_8\metod.Lab_8\bin\Debug\metod.Lab_8.exe
+C:\Users\admin\Desktop\metod.Lab_8\metod.Lab_8\bin\Debug\metod.Lab_8.pdb
+C:\Users\admin\Desktop\metod.Lab_8\metod.Lab_8\obj\Debug\metod.Lab_8.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\metod.Lab_8\metod.Lab_8\obj\Debug\metod.Lab_8.Form1.resources
+C:\Users\admin\Desktop\metod.Lab_8\metod.Lab_8\obj\Debug\metod.Lab_8.Properties.Resources.resources
+C:\Users\admin\Desktop\metod.Lab_8\metod.Lab_8\obj\Debug\metod.Lab_8.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\metod.Lab_8\metod.Lab_8\obj\Debug\metod.Lab_8.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\metod.Lab_8\metod.Lab_8\obj\Debug\metod.Lab_8.exe
+C:\Users\admin\Desktop\metod.Lab_8\metod.Lab_8\obj\Debug\metod.Lab_8.pdb
