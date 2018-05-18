@@ -1,0 +1,12 @@
+F:\Универ\Програмирование\4 семестр\Methods of numerical analysis\metod.Lab_9\metod.Lab_9\obj\Debug\metod.Lab_9.csprojResolveAssemblyReference.cache
+F:\Универ\Програмирование\4 семестр\Methods of numerical analysis\metod.Lab_9\metod.Lab_9\obj\Debug\metod.Lab_9.Form1.resources
+F:\Универ\Програмирование\4 семестр\Methods of numerical analysis\metod.Lab_9\metod.Lab_9\obj\Debug\metod.Lab_9.Properties.Resources.resources
+F:\Универ\Програмирование\4 семестр\Methods of numerical analysis\metod.Lab_9\metod.Lab_9\obj\Debug\metod.Lab_9.csproj.GenerateResource.cache
+F:\Универ\Програмирование\4 семестр\Methods of numerical analysis\metod.Lab_9\metod.Lab_9\obj\Debug\metod.Lab_9.csproj.CoreCompileInputs.cache
+F:\Универ\Програмирование\4 семестр\Methods of numerical analysis\metod.Lab_9\metod.Lab_9\bin\Debug\metod.Lab_9.exe.config
+F:\Универ\Програмирование\4 семестр\Methods of numerical analysis\metod.Lab_9\metod.Lab_9\bin\Debug\metod.Lab_9.exe
+F:\Универ\Програмирование\4 семестр\Methods of numerical analysis\metod.Lab_9\metod.Lab_9\bin\Debug\metod.Lab_9.pdb
+F:\Универ\Програмирование\4 семестр\Methods of numerical analysis\metod.Lab_9\metod.Lab_9\bin\Debug\alglibnet2.dll
+F:\Универ\Програмирование\4 семестр\Methods of numerical analysis\metod.Lab_9\metod.Lab_9\obj\Debug\metod.Lab_9.csproj.CopyComplete
+F:\Универ\Програмирование\4 семестр\Methods of numerical analysis\metod.Lab_9\metod.Lab_9\obj\Debug\metod.Lab_9.exe
+F:\Универ\Програмирование\4 семестр\Methods of numerical analysis\metod.Lab_9\metod.Lab_9\obj\Debug\metod.Lab_9.pdb
